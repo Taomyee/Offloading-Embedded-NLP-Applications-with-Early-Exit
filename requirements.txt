@@ -1,0 +1,8 @@
+boto3
+filelock
+scikit-learn
+sentencepiece
+tensorboard
+tensorboardX
+tqdm
+torch
